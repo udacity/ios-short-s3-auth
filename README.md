@@ -3,7 +3,7 @@
 This repository contains the authentication (auth) microservice from Udacity's server-side Swift curriculum. The auth microservice is a simple Swift server that exposes two endpoints:
 
 - /
-  - returns a "ignore" notice
+  - returns an "ignore" notice
 - /login
   - when provided a valid username/password, returns an auth token
 
